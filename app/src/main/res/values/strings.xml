@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Controller</string>
+    <string name="heading">Humidity and Temperature Controller.</string>
+    <string name="footer">Be Empowered by our Tech.</string>
+</resources>
